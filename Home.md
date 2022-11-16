@@ -8,7 +8,9 @@ Wiki: https://github.com/lwouis/alt-tab-macos/wiki
 
 ## Usage
 
-AltTab works similarly to Apple's built-in `command-tab` application switcher, but for specific windows. It is activated by holding down the `alt` (also known as `option`) key, and pressing `tab`. By default, it shows a scrollable list of thumbnails for all open windows. While continuing to hold down `alt`, repeatedly pressing `tab` cycles forward through the thumbnails, and pressing the `shift` key cycles backwards. The arrow keys, or hovering the mouse pointer over a thumbnail, can also be used. Releasing `alt`, pressing the `space` bar, or clicking on a thumbnail, displays the selected window. Pressing `esc` cancels. The display of thumbnails can be restricted to only the active application, by using `alt` with `` ` `` (the "backtick" key) instead of `tab`.
+AltTab works similarly to Apple's built-in `command-tab` application switcher, but for specific windows. It is activated by holding down the `alt` (also known as `option`) key, and pressing `tab`. By default, it shows a scrollable list of thumbnails for all open windows, from all active applications. The display of thumbnails can be restricted to only the active application, by using `alt` with `` ` `` (the "backtick" key) instead of `tab`.
+
+While continuing to hold down `alt`, repeatedly pressing `tab` cycles forward through the thumbnails, and pressing the `shift` key cycles backwards. The arrow keys, or hovering the mouse pointer over a thumbnail, can also be used. Releasing `alt`, pressing the `space` bar, or clicking on a thumbnail, displays the selected window. Pressing `esc` cancels. 
 
 The thumbnail list is rearranged in "most recently used order", so that quickly pressing `alt-tab` will switch back and forth between the two most recently used windows. 
 
