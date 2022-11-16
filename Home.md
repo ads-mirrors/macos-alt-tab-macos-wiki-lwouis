@@ -39,43 +39,43 @@ AltTab can have up to five different shortcuts. The first two are pre-configured
 
 The appearance of the thumbnails list can be customized:
 
-Theme: choose a Mac (round corners etc.) or Windows-like (square corners etc.) theme.
+_Theme:_ choose a Mac (round corners etc.) or Windows-like (square corners etc.) theme.
 
-Align windows: choose whether thumbnails are centered or aligned left inside the list window. It is not currently possible to change the vertical alignment of the list window.
+_Align windows:_ choose whether thumbnails are centered or aligned left inside the list window. It is not currently possible to change the vertical alignment of the list window.
 
-Max width/height on screen: The maximum size of the thumbnails list window, as a percentage of the screen size. This will also interact with the size of the thumbnails. The 100% width setting still has some margins.
+_Max width/height on screen:_ The maximum size of the thumbnails list window, as a percentage of the screen size. This will also interact with the size of the thumbnails. The 100% width setting still has some margins.
 
-Hide window thumbnails: don't show window thumbnails, only application icons and window titles.
+_Hide window thumbnails:_ don't show window thumbnails, only application icons and window titles.
 
-Rows of thumbnails: the maximum number of rows to display without scrolling. This may also interact with the size of the thumbnails, and produce unexpected results.
+_Rows of thumbnails:_ the maximum number of rows to display without scrolling. This may also interact with the size of the thumbnails, and produce unexpected results.
 
-Window min width in row: the minimum width of a thumbnail, as a percentage of the width of the thumbnail list display. Thumbnails for narrow windows will be padded with blank space.
+_Window min width in row:_ the minimum width of a thumbnail, as a percentage of the width of the thumbnail list display. Thumbnails for narrow windows will be padded with blank space.
 
-Window max width in row: the maximum width of a thumbnail, as a percentage of the width of the thumbnail list display. Wide windows will be shrunk to fit within the thumbnail. The slider's lower limit, and possibly its value, changes based on the minimum width set above: the maximum width cannot be set lower than the minimum width.
+_Window max width in row:_ the maximum width of a thumbnail, as a percentage of the width of the thumbnail list display. Wide windows will be shrunk to fit within the thumbnail. The slider's lower limit, and possibly its value, changes based on the minimum width set above: the maximum width cannot be set lower than the minimum width.
 
-Window app icon size: the size in pixels of the icon identifying the application that the window belongs to.
+_Window app icon size:_ the size in pixels of the icon identifying the application that the window belongs to.
 
-Window title font size: the height in pixels of the window title in each thumbnail.
+_Window title font size:_ the height in pixels of the window title in each thumbnail.
 
-Window title truncation: where the title is cut off, if it doesn't fit within the thumbnail.
+_Window title truncation:_ where the title is cut off, if it doesn't fit within the thumbnail.
 
-Show on: where to show the thumbnail display: on the active screen, the screen where the mouse pointer is, or the screen where the main menu bar is.
+_Show on:_ where to show the thumbnail display: on the active screen, the screen where the mouse pointer is, or the screen where the main menu bar is.
 
-Apparition delay: delay before showing the thumbnail display. Useful if you find the display flashing on, when you only mean to quickly switch between the most recent windows, without activating the display.
+_Apparition delay:_ delay before showing the thumbnail display. Useful if you find the display flashing on, when you only mean to quickly switch between the most recent windows, without activating the display.
 
-Fade out animation:
+_Fade out animation:_
 
-Hide Space number labels:
+_Hide Space number labels:_
 
-Hide status icons:
+_Hide status icons:_
 
-Show standard tabs as windows: applications that use macOS tabs for multiple windows or documents will have separate thumbnails for each. This does not work for Safari or other browser tabs, or any other application that manages its own tabs.
+_Show standard tabs as windows:_ applications that use macOS tabs for multiple windows or documents will have separate thumbnails for each. This does not work for Safari or other browser tabs, or any other application that manages its own tabs.
 
-Hide colored circles on mouse hover: do not display the thumbnails' buttons for quit, close, minimize, and zoom.
+_Hide colored circles on mouse hover:_ do not display the thumbnails' buttons for quit, close, minimize, and zoom.
 
-Hide app badges: do not display notification "badges" on the application icons, that can be seen in the Dock, for example, the count of unread messages in Mail.
+_Hide app badges:_ do not display notification "badges" on the application icons, that can be seen in the Dock, for example, the count of unread messages in Mail.
 
-Hide apps with no open windows: by default, a thumbnail is shown allowing a new window to be opened. This setting disables that. See "Blacklists" below to always hide a specific application.
+_Hide apps with no open windows:_ by default, a thumbnail is shown allowing a new window to be opened. This setting disables that. See "Blacklists" below to always hide a specific application.
 
 ### Policies
 
