@@ -2,7 +2,7 @@
 
 **AltTab** brings the power of Windows’s "alt-tab" window switcher to macOS.
 
-Home page, features, installation, etc.: https://alt-tab-macos.netlify.app/  
+Official website - features, installation, etc.: https://alt-tab-macos.netlify.app/  
 Bug reports and discussion of issues: https://github.com/lwouis/alt-tab-macos/issues  
 Wiki: https://github.com/lwouis/alt-tab-macos/wiki
 
