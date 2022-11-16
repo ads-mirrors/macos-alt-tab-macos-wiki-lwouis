@@ -61,7 +61,21 @@ Window title truncation: where the title is cut off, if it doesn't fit within th
 
 Show on: where to show the thumbnail display: on the active screen, the screen where the mouse pointer is, or the screen where the main menu bar is.
 
-Apparition delay: delay before showing the thumbnail display. Useful if you find the display coming on, when you only mean to quickly switch between the most recent windows, without activating the display.
+Apparition delay: delay before showing the thumbnail display. Useful if you find the display flashing on, when you only mean to quickly switch between the most recent windows, without activating the display.
+
+Fade out animation:
+
+Hide Space number labels:
+
+Hide status icons:
+
+Show standard tabs as windows: applications that use macOS tabs for multiple windows or documents will have separate thumbnails for each. This does not work for Safari or other browser tabs, or any other application that manages its own tabs.
+
+Hide colored circles on mouse hover: do not display the thumbnails' buttons for quit, close, minimize, and zoom.
+
+Hide app badges: do not display notification "badges" on the application icons, that can be seen in the Dock, for example, the count of unread messages in Mail.
+
+Hide apps with no open windows: by default, a thumbnail is shown allowing a new window to be opened. This setting disables that. See "Blacklists" below to always hide a specific application.
 
 ### Policies
 
