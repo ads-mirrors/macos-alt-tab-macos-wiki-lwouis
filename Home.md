@@ -65,7 +65,7 @@ _Apparition delay:_ delay before showing the thumbnail display. Useful if you fi
 
 _Fade out animation:_
 
-_Hide Space number labels:_
+_Hide Space number labels:_ When using multiple Spaces in macOS, do not display the number of the space on the thumbnail.
 
 _Hide status icons:_
 
