@@ -37,7 +37,7 @@ AltTab can have up to five different shortcuts. The first two are pre-configured
 
 ### Appearance
 
-The appearance of the thumbnails list can be customized.
+The appearance of the thumbnails list can be customized:
 
 Theme: choose a Mac (round corners etc.) or Windows-like (square corners etc.) theme.
 
