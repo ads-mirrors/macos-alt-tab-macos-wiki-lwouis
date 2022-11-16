@@ -65,11 +65,11 @@ _Show on:_ where to show the thumbnail display: on the active screen, the screen
 
 _Apparition delay:_ delay before showing the thumbnail display. Useful if you find the display flashing on, when you only mean to quickly switch between the most recent windows, without activating the display.
 
-_Fade out animation:_
+_Fade out animation:_ creates a brief fading out effect of the thumbnails display window.
 
 _Hide Space number labels:_ When using multiple Spaces in macOS, do not display the number of the space on the thumbnail.
 
-_Hide status icons:_
+_Hide status icons:_ do not display the icon indicating a minimized (-) or fullscreen (+) window, in the top-right of the thumbnail. 
 
 _Show standard tabs as windows:_ applications that use macOS tabs for multiple windows or documents will have separate thumbnails for each. This does not work for Safari or other browser tabs, or any other application that manages its own tabs.
 
