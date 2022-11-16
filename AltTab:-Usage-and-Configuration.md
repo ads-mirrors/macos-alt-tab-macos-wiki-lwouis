@@ -12,7 +12,7 @@ The thumbnail list is rearranged in "most recently used order", so that quickly 
 
 Hovering the mouse pointer over a thumbnail shows clickable controls to quit the app, or close/minimize/maximize the window. The keyboard shorcuts `Q`, `W`, `M` can also be used, and `H` can be used to hide the application. The thumbnails support drag and drop of items from other applications.
 
-AltTab offers extensive configuration options in the Preferences, found in the menu under the AltTab icon in the Mac menu bar.
+AltTab offers extensive configuration options in the Preferences, found in the menu under the AltTab icon in the Mac menu bar. See below for details.
 
 ### A note about Stage Manager
 
